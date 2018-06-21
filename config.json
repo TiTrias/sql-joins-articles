@@ -1,0 +1,10 @@
+{
+    "mydb":{
+        "user": "MYSQL_USERNAME",
+        "password": "MYSQL_PASSWORD",
+        "host": "127.0.0.1",
+        "database": "EmployeesDBArticle"
+
+    },
+    "bench": "1"
+}
