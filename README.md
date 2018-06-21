@@ -14,5 +14,5 @@ Change the contents of "config.json" according to your MySQL settings.
 
 ##For the SQL:
 1- Extract the files
-2- Run the code using the following command:
+2- Run the code using the following command:  
 mysql -u<USERNAME> -p <DATABASE_NAME> < <FILE_NAME>
